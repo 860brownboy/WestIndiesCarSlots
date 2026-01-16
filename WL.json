@@ -1,10 +1,8 @@
 {
     "Whitelist": {
-        "14016889": ["ShayX5M"],
-        "0": ["CarName3"]
+        "14016889": ["ShayX5M"]
     },
     "CarNameToAssetId": {
-        "ShayX5M": 116322080117023,
-        "test": 00
+        "ShayX5M": 109211614072538
     }
 }
