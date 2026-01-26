@@ -1,15 +1,13 @@
 {
     "Whitelist": {
-        "14016889": ["ShayX5M", "ShaySinger", "ShaySVJ"],
-        "1316625369": ["asuchg80"],
-        "697883405" : ["JaniRedLabel", "JaniF82"]
+        "14016889": ["ShayX5M", "ShaySinger", "ShaySVJ", "ShayM5"],
+        "1316625369": ["asuchg80"]
     },
     "CarNameToAssetId": {
         "ShayX5M": 109211614072538,
         "ShaySinger": 88404087540819,
         "asuchg80": 117938100761368,
         "ShaySVJ": 103633640272149,
-        "JaniRedLabel": 132190730883481,
-        "JaniF82": 77956182252112
+        "ShayM5": 81912692305274
     }
 }
